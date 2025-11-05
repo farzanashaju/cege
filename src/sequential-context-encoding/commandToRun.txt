@@ -1,0 +1,1 @@
+python sequential_context_encoder.py --train_encodings "../../iemocap-encodings/train_encodings.npz" --test_encodings "../../iemocap-encodings/test_encodings.npz" --train_data "../../iemocap/train.txt" --test_data "../../iemocap/test.txt"

@@ -1,0 +1,13 @@
+# Quick Start: Train CEGE Model on IEMOCAP
+
+# Basic training with default parameters
+python train_IEMOCAP.py --train-encodings "../../iemocap-encodings/train_encodings.npz" --test-encodings "../../iemocap-encodings/test_encodings.npz" --train-data "../../iemocap/train.txt" --test-data "../../iemocap/test.txt"
+
+# Training with smaller batch size (if memory issues)
+# python train_IEMOCAP.py --train-encodings "../../iemocap-encodings/train_encodings.npz" --test-encodings "../../iemocap-encodings/test_encodings.npz" --train-data "../../iemocap/train.txt" --test-data "../../iemocap/test.txt" --batch-size 4
+
+# Training with custom hyperparameters
+# python train_IEMOCAP.py --train-encodings "../../iemocap-encodings/train_encodings.npz" --test-encodings "../../iemocap-encodings/test_encodings.npz" --train-data "../../iemocap/train.txt" --test-data "../../iemocap/test.txt" --batch-size 8 --epochs 60 --lr 0.0001 --dropout 0.5 --D-e 100 --memory-dim 200 --gcn-hidden-dim 200
+
+# CPU-only training (slower)
+# python train_IEMOCAP.py --train-encodings "../../iemocap-encodings/train_encodings.npz" --test-encodings "../../iemocap-encodings/test_encodings.npz" --train-data "../../iemocap/train.txt" --test-data "../../iemocap/test.txt" --no-cuda --batch-size 4
