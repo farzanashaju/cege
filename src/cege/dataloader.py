@@ -12,7 +12,7 @@ class IEMOCAPDataset(Dataset):
         # using latin1 encoding to handle python2 pickled files in python3
         self.videoIDs, self.videoSpeakers, self.videoLabels, self.videoText,\
         self.videoAudio, self.videoVisual, self.videoSentence, self.trainVid,\
-        self.testVid = pickle.load(open('./IEMOCAP_features/IEMOCAP_features.pkl', 'rb'), encoding='latin1')
+        self.testVid = pickle.load(open('./iemocap-features/iemocap-features.pkl', 'rb'), encoding='latin1')
 
         # label index mapping = {'hap':0, 'sad':1, 'neu':2, 'ang':3, 'exc':4, 'fru':5}
         
