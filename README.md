@@ -51,6 +51,7 @@ python3 sample.py --model bestmodel.pth --split train --idx 5
 
 # sample a specific utterance
 python3 sample.py --model bestmodel.pth --track-idx 10
+```
 
 ## Contributors
 
