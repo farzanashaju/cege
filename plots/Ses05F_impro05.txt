@@ -1,0 +1,100 @@
+Conversation id: Ses05F_impro05
+Num utterances: 91
+Temporal loss (model): 2.019625753746368e-05
+
+Per-utterance predictions and diagnostics:
+----------------------------------------------------------------------------------------------------------------------------------------------
+Idx | Utterance (truncated)                                        | True       | Pred       | MemNorm  | Mem[0:6]
+----------------------------------------------------------------------------------------------------------------------------------------------
+  0 | Hi,um- I think my baggage was lost, and I need to I guess... | Sad        | Sad        | 17.9444  | 3.000,5.000,3.000,1.000,1.000,1.000
+  1 | Okay, what flight were you on?                               | Sad        | Sad        | 14.6969  | 3.000,4.000,6.000,0.000,0.000,2.000
+  2 | Um-Seventeen. Coming from --                                 | Sad        | Sad        | 21.4942  | 7.000,1.000,7.000,1.000,4.000,3.000
+  3 | On what airline?                                             | Sad        | Sad        | 13.0767  | 2.000,2.000,1.000,1.000,3.000,0.000
+  4 | It was Virgin Atlantic coming from London.                   | Sad        | Sad        | 16.3095  | 2.000,0.000,3.000,1.000,5.000,7.000
+  5 | From London, okay. Um- And you went through all your prop... | Sad        | Sad        | 18.8414  | 6.000,0.000,3.000,0.000,0.000,7.000
+  6 | Yeah, I don't know where it was lost.  I was coming from ... | Frustrated | Sad        | 18.0278  | 0.000,5.000,7.000,7.000,0.000,4.000
+  7 | So you haven't seen your bags since Africa. You flew thre... | Sad        | Sad        | 16.5831  | 2.000,7.000,1.000,4.000,5.000,5.000
+  8 | Right.                                                       | Sad        | Sad        | 14.8661  | 5.000,7.000,3.000,0.000,4.000,0.000
+  9 | Yeah.                                                        | Sad        | Sad        | 20.5913  | 5.000,5.000,1.000,7.000,6.000,7.000
+ 10 | Okay.  Well, let me see here. I-                             | Sad        | Sad        | 15.7797  | 3.000,5.000,0.000,2.000,2.000,1.000
+ 11 | It seems like it went through Heath Row.  I see it here. uh- | Sad        | Sad        | 18.4662  | 5.000,5.000,5.000,4.000,4.000,1.000
+ 12 | That's good.                                                 | Sad        | Sad        | 15.6525  | 1.000,1.000,0.000,3.000,7.000,5.000
+ 13 | But uh- I don't see it here in the airport yet. uh           | Sad        | Frustrated | 18.2757  | 5.000,6.000,6.000,2.000,4.000,3.000
+ 14 | I'm not sure where it is.  We can absolutely keep an eye ... | Sad        | Frustrated | 15.2315  | 1.000,1.000,2.000,5.000,5.000,2.000
+ 15 | Well, I can't leave without it. I mean, Could you find out?  | Sad        | Frustrated | 17.3494  | 6.000,5.000,0.000,4.000,2.000,4.000
+ 16 | Well, I'm not a miracle worker.  I don't know what I can ... | Sad        | Frustrated | 14.7648  | 4.000,1.000,1.000,1.000,1.000,3.000
+ 17 | Right, well can you get on the computer maybe and like tr... | Frustrated | Frustrated | 18.3576  | 3.000,7.000,4.000,5.000,4.000,7.000
+ 18 | Well, as I told you, it left Heath Row and it seems to ha... | Sad        | Frustrated | 18.4120  | 4.000,7.000,2.000,1.000,0.000,2.000
+ 19 | Yes, sir, I know what my bag looks like.                     | Frustrated | Frustrated | 16.1245  | 0.000,1.000,5.000,5.000,3.000,7.000
+ 20 | Okay, and what is that?  What kind of bag is it?             | Sad        | Frustrated | 17.9444  | 3.000,1.000,0.000,7.000,4.000,2.000
+ 21 | Um- It's a travel backpack.  It's green and gray.  It's g... | Sad        | Frustrated | 16.6733  | 6.000,5.000,1.000,5.000,7.000,1.000
+ 22 | And you couldn't find it?                                    | Frustrated | Frustrated | 15.3297  | 7.000,6.000,1.000,2.000,0.000,5.000
+ 23 | No, it didn't turn up at the baggage claim.                  | Frustrated | Frustrated | 20.0998  | 4.000,5.000,7.000,7.000,7.000,7.000
+ 24 | Are you sure?                                                | Sad        | Frustrated | 15.9687  | 3.000,0.000,5.000,1.000,0.000,3.000
+ 25 | I mean we've gone through all of this.  I've been to five... | Frustrated | Frustrated | 15.8745  | 0.000,5.000,2.000,6.000,5.000,4.000
+ 26 | Well, obviously, that wasn't me, so I'm going to have to ... | Frustrated | Frustrated | 18.8944  | 7.000,1.000,3.000,1.000,1.000,2.000
+ 27 | Okay.                                                        | Frustrated | Sad        | 16.2173  | 7.000,6.000,7.000,4.000,7.000,4.000
+ 28 | All right?  Now, um- it's green, travel bag, you couldn't... | Sad        | Sad        | 17.6352  | 6.000,5.000,5.000,3.000,4.000,4.000
+ 29 | Yes, lots of really like -- sentimental value only, but--    | Frustrated | Sad        | 18.8944  | 4.000,3.000,0.000,5.000,3.000,6.000
+ 30 | Sentimental value.                                           | Sad        | Sad        | 17.5214  | 6.000,0.000,1.000,5.000,1.000,5.000
+ 31 | Right.  Well, I don't know what to tell you. Um- What I c... | Sad        | Sad        | 17.2627  | 4.000,3.000,4.000,1.000,0.000,3.000
+ 32 | No, I understand. I mean. It's got to be tough all those ... | Sad        | Sad        | 13.9284  | 0.000,2.000,0.000,5.000,4.000,0.000
+ 33 | Does this happen often?  Do they--you just lose baggage a... | Frustrated | Sad        | 18.4662  | 1.000,7.000,1.000,1.000,4.000,1.000
+ 34 | Well, you know, sometimes that's--really, I mean what els... | Sad        | Sad        | 14.4568  | 1.000,2.000,0.000,0.000,0.000,4.000
+ 35 | Uh- Not lose the baggage in the first place. I mean You'r... | Angry      | Sad        | 19.8997  | 1.000,6.000,1.000,6.000,7.000,1.000
+ 36 | Well,                                                        | Sad        | Sad        | 14.4568  | 3.000,4.000,1.000,6.000,6.000,5.000
+ 37 | Obviously ma'am.                                             | Frustrated | Frustrated | 14.1774  | 5.000,5.000,5.000,5.000,0.000,0.000
+ 38 | I am sorry, ma'am.                                           | Frustrated | Frustrated | 15.3948  | 3.000,1.000,4.000,1.000,5.000,7.000
+ 39 | Let's- Let's just relax for a moment, ma'am.  You underst... | Sad        | Frustrated | 14.7986  | 2.000,2.000,1.000,0.000,2.000,3.000
+ 40 | Obviously, we're not trying to lose your luggage.  Do you... | Sad        | Frustrated | 15.7480  | 6.000,3.000,0.000,7.000,3.000,7.000
+ 41 | No, but I mean like why can't- why can't you find it?  Wh... | Angry      | Frustrated | 16.8226  | 1.000,5.000,2.000,0.000,2.000,3.000
+ 42 | Well, I just-I paid so much money for this ticket.  I fee... | Angry      | Frustrated | 16.4012  | 7.000,1.000,6.000,1.000,5.000,4.000
+ 43 | Well, we're talking about one bag.  You personally made i... | Sad        | Sad        | 18.0555  | 2.000,2.000,2.000,0.000,6.000,1.000
+ 44 | Yeah, meaning I didn't die in a fiery plane crash.  How c... | Angry      | Frustrated | 13.8564  | 1.000,5.000,5.000,3.000,4.000,3.000
+ 45 | That's what the cost of the ticket was for.                  | Frustrated | Sad        | 14.5258  | 1.000,0.000,7.000,6.000,3.000,1.000
+ 46 | Ma'am, international flights are not cheap and there's ma... | Frustrated | Sad        | 16.7332  | 4.000,5.000,1.000,3.000,7.000,5.000
+ 47 | Right, but part of the agreement is that I'm paying so th... | Angry      | Frustrated | 14.9332  | 2.000,3.000,1.000,0.000,3.000,6.000
+ 48 | Right. Yes, ma'am.                                           | Frustrated | Frustrated | 19.4936  | 2.000,0.000,7.000,7.000,3.000,7.000
+ 49 | And that you're going to transport them safely from one p... | Angry      | Sad        | 14.5945  | 0.000,4.000,1.000,2.000,4.000,3.000
+ 50 | Right, and also if you'll read the fine print of your agr... | Frustrated | Frustrated | 14.3527  | 5.000,2.000,4.000,6.000,4.000,1.000
+ 51 | That's all you can offer me? I mean, my the stuff in ther... | Angry      | Sad        | 17.8326  | 1.000,5.000,1.000,7.000,3.000,1.000
+ 52 | Well, I understand that.  Did you buy flight insurance?      | Sad        | Sad        | 17.7764  | 7.000,4.000,4.000,7.000,6.000,1.000
+ 53 | Well, my hands are really tied then.                         | Sad        | Frustrated | 16.1864  | 1.000,3.000,0.000,2.000,6.000,5.000
+ 54 | Why do I need flight insurance?  Why don't you guys just ... | Frustrated | Frustrated | 14.2829  | 4.000,0.000,7.000,0.000,2.000,0.000
+ 55 | Well, it's like any kind of insurance.  You don't-when yo... | Sad        | Sad        | 20.1742  | 7.000,7.000,5.000,1.000,4.000,6.000
+ 56 | Right, but if I'm riding a bus, I don't need to buy lugga... | Frustrated | Frustrated | 16.8523  | 1.000,4.000,7.000,1.000,4.000,0.000
+ 57 | Well, of course not because you've got your backpack with... | Sad        | Frustrated | 13.8203  | 3.000,4.000,3.000,3.000,2.000,5.000
+ 58 | Because they made me check it.  It's too heavy.              | Frustrated | Frustrated | 17.2627  | 1.000,6.000,1.000,1.000,6.000,6.000
+ 59 | Uh, so it was really heavy.                                  | Sad        | Sad        | 15.2643  | 0.000,4.000,4.000,6.000,3.000,3.000
+ 60 | Well, you know what, it could still turn up, but until th... | Frustrated | Sad        | 18.3303  | 3.000,1.000,0.000,2.000,7.000,5.000
+ 61 | There's nothing else you can do?                             | Frustrated | Frustrated | 13.3041  | 4.000,1.000,0.000,3.000,2.000,0.000
+ 62 | I'm sorry, ma'am, there's nothing else I can do.  My hand... | Sad        | Frustrated | 17.2916  | 2.000,0.000,0.000,2.000,4.000,5.000
+ 63 | I don't believe that for a second.                           | Angry      | Frustrated | 14.7986  | 1.000,4.000,4.000,7.000,7.000,0.000
+ 64 | Well I don't know why you wouldn't believe that.             | Sad        | Frustrated | 16.7033  | 2.000,4.000,0.000,2.000,2.000,1.000
+ 65 | Obviously, I'm doing everything that I can here.             | Frustrated | Frustrated | 16.5227  | 5.000,3.000,6.000,7.000,0.000,5.000
+ 66 | Well, I have no way to give you more money.  I'm giving y... | Sad        | Frustrated | 18.2757  | 2.000,3.000,0.000,1.000,1.000,0.000
+ 67 | What do you mean as you can?  Who makes up these rules?      | Angry      | Frustrated | 15.3948  | 5.000,4.000,2.000,0.000,3.000,1.000
+ 68 | makes up?                                                    | Sad        | Frustrated | 21.0238  | 7.000,5.000,6.000,1.000,7.000,6.000
+ 69 | You're an autono- autonomous human being.  You could- You... | Angry      | Frustrated | 11.0454  | 4.000,1.000,0.000,3.000,2.000,0.000
+ 70 | The airline makes these rules, mom ma'am.                    | Sad        | Frustrated | 17.5499  | 6.000,0.000,0.000,5.000,1.000,5.000
+ 71 | So I'm just supposed to oh, well, oops, my luggage is gon... | Frustrated | Sad        | 12.8452  | 6.000,4.000,0.000,0.000,0.000,0.000
+ 72 | Well, you can take my stinking fifty dollar voucher and g... | Frustrated | Frustrated | 20.2978  | 0.000,0.000,2.000,7.000,1.000,1.000
+ 73 | And you have no guarantee.                                   | Frustrated | Sad        | 13.6015  | 6.000,2.000,3.000,2.000,1.000,1.000
+ 74 | I have no guarantee, absolutely not.                         | Frustrated | Frustrated | 16.1864  | 3.000,4.000,2.000,4.000,2.000,2.000
+ 75 | This is ridiculous.                                          | Frustrated | Frustrated | 17.7764  | 1.000,5.000,0.000,3.000,2.000,5.000
+ 76 | How can I guarantee finding your luggage when it's lost?     | Frustrated | Frustrated | 17.0000  | 1.000,2.000,7.000,0.000,7.000,4.000
+ 77 | Uh- Because you guys lost it, so it should be your respon... | Frustrated | Frustrated | 18.5203  | 6.000,5.000,5.000,5.000,5.000,4.000
+ 78 | Right, well, when you're at home and you lose something, ... | Frustrated | Sad        | 15.7797  | 0.000,2.000,0.000,4.000,4.000,5.000
+ 79 | Oh, come on.  Would you cut it out?  This is ridiculous.     | Frustrated | Frustrated | 17.2916  | 5.000,1.000,4.000,6.000,6.000,1.000
+ 80 | Well, it sounds to me like you're being ridiculous           | Frustrated | Frustrated | 16.3401  | 2.000,1.000,4.000,5.000,7.000,7.000
+ 81 | No, I don't think I am.  I like have a whole bunch of stu... | Angry      | Frustrated | 17.6635  | 5.000,4.000,6.000,0.000,4.000,4.000
+ 82 | Right.                                                       | Sad        | Sad        | 15.6205  | 0.000,3.000,7.000,0.000,5.000,0.000
+ 83 | It's not like I can go to Kmart and buy another.             | Angry      | Frustrated | 16.5227  | 6.000,7.000,0.000,2.000,1.000,4.000
+ 84 | I understand that, ma'am, but things get lost.  There's n... | Frustrated | Frustrated | 17.3205  | 5.000,2.000,2.000,1.000,1.000,3.000
+ 85 | And while I really would love to be able to hand you your... | Sad        | Frustrated | 14.4914  | 1.000,4.000,3.000,7.000,5.000,0.000
+ 86 | So you'd like the fifty dollar voucher?                      | Sad        | Sad        | 15.4919  | 1.000,0.000,0.000,4.000,3.000,1.000
+ 87 | Yeah, I'll take your fifty dollar voucher.                   | Frustrated | Sad        | 17.2627  | 7.000,3.000,1.000,5.000,1.000,6.000
+ 88 | Okay, just fill out these three forms, and um- you'll- we... | Sad        | Frustrated | 14.8661  | 2.000,3.000,0.000,3.000,0.000,2.000
+ 89 | Thanks.                                                      | Frustrated | Sad        | 20.5183  | 7.000,7.000,1.000,1.000,5.000,4.000
+ 90 | You have a wonderful day.                                    | Sad        | Sad        | 13.1529  | 5.000,2.000,0.000,3.000,1.000,1.000
+----------------------------------------------------------------------------------------------------------------------------------------------
